@@ -27,7 +27,7 @@
 
 production:
   adapter: postgresql
-  database: dd1cs5rak40nq6
-  username: jbuvtphpkrwuih
-  password: e6cb185b8d1dac552df3d768134cc4fdaebe39377f1e6d6ede5c49bf95b9edc6
-  host: ec2-23-23-248-162.compute-1.amazonaws.com
+  database: d7mq0puie5ajlg
+  username: xmqshrhhldpwbp
+  password: 9343bc65e749cb729cfbb9bb98eeb095e7874fb1cba08ac7835ff883ef9cc185
+  host: ec2-54-83-15-95.compute-1.amazonaws.com
